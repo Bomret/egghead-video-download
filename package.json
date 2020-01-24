@@ -7,7 +7,7 @@
     "bluebird": "^3.4.6",
     "commander": "^2.9.0",
     "get-links-cli": "^0.0.5",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "youtube-dl": "^1.11.1"
   },
   "devDependencies": {
